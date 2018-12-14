@@ -1,0 +1,19 @@
+{
+  "name": "cucumberjstraining",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumberjs"
+  },
+  "author": "vaibhav",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^5.0.3",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "selenium-cucumber-js": "^1.6.2"
+  }
+}
