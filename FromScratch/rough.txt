@@ -1,0 +1,6 @@
+As global npm package
+
+npm install selenium-standalone@latest -g
+selenium-standalone install && selenium-standalone start
+
+npm install wdio-selenium-standalone-service --save-dev
